@@ -5,6 +5,9 @@
 ![Minecraft 1.9.4](https://img.shields.io/badge/Minecraft-1.9.4-yellow.svg?style=flat)
 ![Minecraft 1.10.2](https://img.shields.io/badge/Minecraft-1.10.2-yellow.svg?style=flat)
 ![Minecraft 1.11.2](https://img.shields.io/badge/Minecraft-1.11.2-yellow.svg?style=flat)
+![Minecraft 1.12.2](https://img.shields.io/badge/Minecraft-1.12.2-yellow.svg?style=flat)
+
+## Use paper instead of spigot! !
 
 ## Table of Contents
 
