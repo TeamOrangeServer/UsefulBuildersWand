@@ -1,4 +1,4 @@
-[![Latest Tag](https://img.shields.io/github/tag/Team-Fruit/UsefulBuildersWand.svg?label=Latest%20Tag&style=flat)](https://github.com/Team-Fruit/UsefulBuildersWand/tags) [![Latest Release](https://img.shields.io/github/release/Team-Fruit/UsefulBuildersWand.svg?label=Latest%20Release&style=flat)](https://github.com/Team-Fruit/UsefulBuildersWand/releases)
+![GitHub release](https://img.shields.io/github/release-pre/TeamOrangeServer/UsefulBuildersWand.svg) ![GitHub release](https://img.shields.io/github/release/TeamOrangeServer/UsefulBuildersWand.svg)
 
 # UsefulBuildersWand
 ![Minecraft 1.8.9](https://img.shields.io/badge/Minecraft-1.8.9-yellow.svg?style=flat)
