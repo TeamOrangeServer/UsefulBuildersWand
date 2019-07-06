@@ -1,4 +1,4 @@
-![GitHub release](https://img.shields.io/github/release-pre/TeamOrangeServer/UsefulBuildersWand.svg)
+[![GitHub release](https://img.shields.io/github/release-pre/TeamOrangeServer/UsefulBuildersWand.svg)!](https://github.com/TeamOrangeServer/UsefulBuildersWand/releases)[![GitHub release](https://img.shields.io/github/release/TeamOrangeServer/UsefulBuildersWand.svg)!](https://github.com/TeamOrangeServer/UsefulBuildersWand/releases)
 
 # UsefulBuildersWand
 ![Minecraft 1.8.9](https://img.shields.io/badge/Minecraft-1.8.9-yellow.svg?style=flat)
