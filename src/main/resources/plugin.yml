@@ -1,7 +1,8 @@
-name: UsefulBuildersWand
+name: UsefulBuildersWand-akiCustom
 main: net.teamfruit.usefulbuilderswand.UsefulBuildersWand
-version: 1.0.0
-author: Kamesuta
+version: ${project.version}
+author: [Kamesuta, aki]
+prefix: AKP-UBW
 commands:
   ubw:
     description: Builder's Wand Commands

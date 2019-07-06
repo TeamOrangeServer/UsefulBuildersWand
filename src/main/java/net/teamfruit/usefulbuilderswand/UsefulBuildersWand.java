@@ -9,6 +9,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
 import org.apache.commons.io.IOUtils;
+import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.configuration.file.FileConfiguration;
@@ -25,6 +26,7 @@ public class UsefulBuildersWand extends JavaPlugin {
 
 	@Override
 	public void onDisable() {
+		getLogger().info(ChatColor.RED + "aki UsefulBuildersWand,shutdown now");
 
 	}
 
@@ -34,6 +36,7 @@ public class UsefulBuildersWand extends JavaPlugin {
 
 	@Override
 	public void onEnable() {
+		getLogger().info(ChatColor.GREEN + "aki UsefulBuildersWand,start now");
 		Log.log = getLogger();
 		final FileConfiguration config = getConfig();
 
